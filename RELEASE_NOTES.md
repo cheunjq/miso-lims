@@ -2,7 +2,7 @@
 
 Changes:
 
-
+  * Improved performance of bulk QC pages
 
 # 1.9.0
 
