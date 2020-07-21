@@ -3,6 +3,8 @@
 Changes:
 
   * Improved performance of bulk QC pages
+  * Removed bulk Create/Edit QC Types pages - QC Types can now only be created and modified using the
+    single Create/Edit QC Type page
 
 # 1.9.0
 
